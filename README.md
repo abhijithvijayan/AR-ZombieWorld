@@ -1,5 +1,7 @@
-# Zombie Forest
+# Zombie World
 An Augmented Reality Zombie Forest structure with dataset as a book-cover-image built using Unity and Vuforia
+
+![Screenshot](Assets/MyAssets/screenshot.jpg?raw=true "Screenshot")
 
 File Structure is as easy as it seems
 
@@ -20,4 +22,4 @@ Pull requests are open to any new datasets and 3D objects addition
     1. move those to the image_target section
 1. Build apks with api of your choice
 
-Need help ? [WhatsApp me](https://api.whatsapp.com/send?phone=918921436161&text=hey_there)
+Need help ? [WhatsApp me](https://api.whatsapp.com/send?phone=918921436161&text=hi_there)
