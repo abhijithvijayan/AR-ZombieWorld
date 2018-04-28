@@ -7,6 +7,12 @@ File Structure is as easy as it seems
 
 Pull requests are open to any new datasets and 3D objects addition
 
+# clone this repo
+
+``
+git clone https://github.com/abhijithvijayan/AR_init_project-ZombieWorld.git .
+``
+
 # Instructions
 
 1. Setup Vuforia Config.
@@ -22,4 +28,4 @@ Pull requests are open to any new datasets and 3D objects addition
     1. move those to the image_target section
 1. Build apks with api of your choice
 
-Need help ? [WhatsApp me](https://api.whatsapp.com/send?phone=918921436161&text=hi_there)
+Need help ? [Find me here](https://abhijithvijayan.me)
