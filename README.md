@@ -1,5 +1,5 @@
 # Zombie World
-An Augmented Reality Zombie Forest structure with dataset as a book-cover-image built using Unity and Vuforia
+An Augmented Reality Zombie Forest structure with dataset as a regular image(a book-cover) built using Unity and Vuforia
 
 ![Screenshot](Assets/MyAssets/screenshot.jpg?raw=true "Screenshot")
 
@@ -10,7 +10,7 @@ Pull requests are open to any new datasets and 3D objects addition
 # clone this repo
 
 ``
-git clone https://github.com/abhijithvijayan/AR_init_project-ZombieWorld.git .
+git clone https://github.com/abhijithvijayan/AR-ZombieWorld.git
 ``
 
 # Instructions
@@ -27,5 +27,3 @@ git clone https://github.com/abhijithvijayan/AR_init_project-ZombieWorld.git .
     1. Set the position accordingly
     1. move those to the image_target section
 1. Build apks with api of your choice
-
-Need help ? [Find me here](https://abhijithvijayan.me)
